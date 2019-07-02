@@ -1,0 +1,6 @@
+D:\18.11.2269\Project\LatihanKomposisi\bin\Debug\LatihanKomposisi.exe.config
+D:\18.11.2269\Project\LatihanKomposisi\bin\Debug\LatihanKomposisi.exe
+D:\18.11.2269\Project\LatihanKomposisi\bin\Debug\LatihanKomposisi.pdb
+D:\18.11.2269\Project\LatihanKomposisi\obj\Debug\LatihanKomposisi.csproj.CoreCompileInputs.cache
+D:\18.11.2269\Project\LatihanKomposisi\obj\Debug\LatihanKomposisi.exe
+D:\18.11.2269\Project\LatihanKomposisi\obj\Debug\LatihanKomposisi.pdb
